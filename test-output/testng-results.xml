@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7315" started-at="2016-05-20T19:03:17Z" finished-at="2016-05-20T19:03:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7315" started-at="2016-05-20T19:03:17Z" finished-at="2016-05-20T19:03:24Z">
+      <class name="selenium.signuptest.SignupTest">
+        <test-method status="PASS" signature="preClass()[pri:0, instance:selenium.signuptest.SignupTest@484970b0]" name="preClass" is-config="true" duration-ms="11" started-at="2016-05-20T20:03:17Z" finished-at="2016-05-20T20:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preClass -->
+        <test-method status="PASS" signature="signupTest()[pri:0, instance:selenium.signuptest.SignupTest@484970b0]" name="signupTest" duration-ms="5195" started-at="2016-05-20T20:03:17Z" description="Tests user signup functionality." finished-at="2016-05-20T20:03:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupTest -->
+        <test-method status="PASS" signature="postMethod()[pri:0, instance:selenium.signuptest.SignupTest@484970b0]" name="postMethod" is-config="true" duration-ms="2085" started-at="2016-05-20T20:03:22Z" finished-at="2016-05-20T20:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postMethod -->
+      </class> <!-- selenium.signuptest.SignupTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
